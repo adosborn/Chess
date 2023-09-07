@@ -1,2 +1,2 @@
 # Chess
-Chess game built in Java created during my senior year of high school
+Two player, local Chess game built in Java created during my senior year of high school (2019-2020). The program only allows valid moves to be made, moves to be made exclusively by the active player, and removes pieces from the board when taken. It was made as part of an independent study with the goal of learning more about data stuctures and object oriented programming, both of which the game uses for many of its attributes. The interface is created with Javafx. 
